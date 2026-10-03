@@ -122,7 +122,7 @@ La distribución de frecuencias permite determinar cuántas observaciones corres
 Una tabla de frecuencias puede contener las siguientes columnas:
 
 | Símbolo | Nombre | Interpretación |
-|:--:|----|----|
+|:----------------:|-------------------|-----------------------------------|
 | $x_i$ | Valor o categoría | Valor observado de la variable |
 | $f_i$ | Frecuencia absoluta | Número de veces que aparece $x_i$ |
 | $F_i$ | Frecuencia absoluta acumulada | Número de observaciones hasta $x_i$ |
@@ -835,7 +835,7 @@ $$\alpha=0.05$$
 31. **Diferencia entre distribución unidimensional y bidimensional**
 
 | Característica | Unidimensional | Bidimensional |
-|----|----|----|
+|--------------------|--------------------|--------------------------------|
 | Número de variables | 1 | 2 |
 | Objetivo | Describir una variable | Analizar dos variables conjuntamente |
 | Tabla principal | Tabla de frecuencias | Tabla de contingencia |
